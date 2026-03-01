@@ -1,8 +1,9 @@
 # 👋 Olá! Eu sou Eduardo Cruz Junior
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
-💻 Aprendendo **Python** e **automação**  
-🔍 Buscando oportunidade de **estágio em desenvolvimento**
+🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+💻 Focado em desenvolvimento backend com Python  
+⚙️ Interessado em automação e boas práticas de código  
+🚀 Buscando oportunidade de estágio em desenvolvimento
 
 ## 🛠️ Tecnologias
 
@@ -11,10 +12,15 @@
 
 ## 📂 Projetos em Destaque
 
-### [📚 Sistema de Biblioteca](https://github.com/edu76666/sistema-biblioteca-python)
-Sistema de gerenciamento refatorado com dicionários
-- Código 30% mais limpo
-- Estrutura profissional
+### 📚 Sistema de Biblioteca
+🔗 https://github.com/edu76666/sistema-biblioteca-python
+
+Sistema de gerenciamento de biblioteca desenvolvido em Python.
+
+✔️ Refatorado utilizando dicionários  
+✔️ Estrutura modular  
+✔️ Código mais organizado e escalável  
+✔️ Aplicação de boas práticas
 
 ## 📊 GitHub Stats
 
