@@ -17,14 +17,10 @@
 
 Sistema de gerenciamento de biblioteca desenvolvido em Python.
 
-✔️ Refatorado utilizando dicionários  
-✔️ Estrutura modular  
-✔️ Código mais organizado e escalável  
-✔️ Aplicação de boas práticas
-
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=edu76666&show_icons=true&theme=radical)
+- Refatorado utilizando dicionários  
+- Estrutura modular  
+- Código mais organizado e escalável  
+- Aplicação de boas práticas
 
 ## 📫 Contato
 
