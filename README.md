@@ -1,3 +1,4 @@
+
 # 👋 Olá! Eu sou Eduardo Cruz Junior
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
@@ -16,24 +17,25 @@
 ### 📚 Sistema de Biblioteca
 🔗 https://github.com/edu76666/sistema-biblioteca-python
 Sistema de gerenciamento de biblioteca desenvolvido em Python.
-- Refatorado utilizando dicionários  
-- Estrutura modular  
-- Código mais organizado e escalável  
+- Refatorado utilizando dicionários
+- Estrutura modular
+- Código mais organizado e escalável
 - Aplicação de boas práticas
 
 ### 🤖 Automação de Cadastro de Produtos
 🔗 https://github.com/edu76666/automacao-cadastro-python
-Product registration automation developed during Hashtag Treinamentos Python Intensive.
+Automação de cadastro de produtos desenvolvida durante a Jornada Python da Hashtag Treinamentos.
 - pyautogui + pandas
-- Reads 293 products from CSV
-- Fills web form automatically
+- Lê 293 produtos de um arquivo CSV
+- Preenche formulário web automaticamente
 
 ### 📅 Automação de Ponto - Vendedores Externos
 🔗 https://github.com/edu76666/automacao-ponto-vendedores
-Generates work schedules for external sellers automatically.
-- Dynamic period calculation (21st to 20th)
-- Filters business days automatically
-- Exports complete schedule to CSV
+Gera automaticamente a escala de ponto para vendedores externos.
+- Cálculo dinâmico do período (dia 21 ao dia 20)
+- Filtra dias úteis automaticamente
+- Exporta escala completa para CSV
+
 ## 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/educruzjr/)
